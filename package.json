@@ -1,0 +1,17 @@
+{
+  "name": "valta-audit-chain",
+  "version": "1.0.0",
+  "description": "Financial guardrails for AI agents — pre-call spend gates and a cryptographically hash-chained audit trail.",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "demo": "tsx demo.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.0",
+    "tsx": "^4.7.0",
+    "typescript": "^5.4.0"
+  },
+  "license": "MIT"
+}
