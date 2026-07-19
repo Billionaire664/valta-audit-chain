@@ -10,7 +10,7 @@ A reference implementation of two patterns used in [Valta](https://valta.co)'s s
 
 The agent asks permission, the gate decides, and the decision is provably recorded — whichever way it went.
 
-![The gate, then the chain](docs/valta-audit-chain-pattern.png)
+![The gate, then the chain](docs/valtaauditchainpattern.png)
 
 This is not a library to install. It's a small, readable reference — read the source, adapt what's useful, discard what isn't. Postgres + TypeScript here; both patterns are language- and database-agnostic. Known limitations are documented explicitly below, not hidden.
 
