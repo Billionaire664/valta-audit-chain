@@ -1,1 +1,0 @@
-![Uploading valtaauditchainpattern.png…]()
